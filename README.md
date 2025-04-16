@@ -2,6 +2,10 @@
 
 ![Calculator Screenshot](Screenshot.png)
 
+## Live Page
+
+https://sohanur-raihan.github.io/simple-calculator-with-html-javascript-css/
+
 ## Overview
 A sleek, modern calculator built with HTML, CSS, and JavaScript featuring a clean UI design with smooth animations and responsive layout.
 
