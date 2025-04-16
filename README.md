@@ -1,6 +1,6 @@
 # Modern Calculator
 
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](Screenshot.png)
 
 ## Overview
 A sleek, modern calculator built with HTML, CSS, and JavaScript featuring a clean UI design with smooth animations and responsive layout.
